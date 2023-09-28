@@ -9,5 +9,5 @@ console.log('Serega\nVarya\nNekit');
 console.log('- Did Joffrey agree?\n- He did. He also said \"I love using \\n\"');
 let gritting = "Father!";
 console.log(gritting);
-onsole.log(gritting);
-onsole.log(gritting);
+console.log(gritting);
+console.log(gritting);
