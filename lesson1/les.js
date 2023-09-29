@@ -11,3 +11,5 @@ let gritting = "Father!";
 console.log(gritting);
 console.log(gritting);
 console.log(gritting);
+let who = "dragon's" + 'mother';
+console.log(who);
