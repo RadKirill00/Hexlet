@@ -13,3 +13,5 @@ console.log(gritting);
 console.log(gritting);
 let who = "dragon's" + 'mother';
 console.log(who);
+let result = sum(sum(1, 3), sum(sum(4, 2), 3));
+console.log(result);
