@@ -13,3 +13,6 @@ console.log(gritting);
 console.log(gritting);
 let who = "dragon's" + 'mother';
 console.log(who);
+import { length } from './lesson1/les.js';
+const text = "Not";
+console.log(`Last: ${text [length(text) - 1]}`);
