@@ -16,3 +16,4 @@ const getMax = (x, y, z) => {
     }
     return max;
 }
+console.log('Hello')
