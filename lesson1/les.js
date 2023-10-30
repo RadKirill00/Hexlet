@@ -15,3 +15,4 @@ let who = "dragon's" + 'mother';
 console.log(who);
 const text = "Not";
 console.log(`Last: ${text [length(text) - 1]}`);
+console.log('123');
